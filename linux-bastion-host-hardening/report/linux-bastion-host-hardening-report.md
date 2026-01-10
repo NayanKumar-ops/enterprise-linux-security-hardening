@@ -1,18 +1,18 @@
-# Linux Bastion Host Hardening – Report
+# Linux Bastion Host Hardening Report
 
-# This document provides a detailed explanation of the Linux bastion host hardening project.
+This folder contains the detailed security report for the Linux bastion host hardening project.
 
-The report explains:
-- What a bastion host is and why it needs protection
-- The security risks of exposed SSH services
+The purpose of this report is to explain how a publicly exposed Linux server was secured by reducing its attack surface and protecting SSH access.
+
+The report covers:
+- Identification of exposed services using Nmap
 - Firewall hardening using firewalld
 - SSH rate limiting to reduce brute-force attacks
-- Validation of security controls using Nmap scans
+- Validation of security improvements using before and after scans
 
-The hardening steps were tested in a Rocky Linux lab environment.  
-Before and after Nmap scans were used to measure the reduction in attack surface.
+The work was performed in a Rocky Linux lab environment.  
+Screenshots and scan results are referenced to demonstrate the effectiveness of the applied controls.
 
-Supporting evidence such as screenshots and scan results are referenced in the main report file.
-
-Main report file:
+For the full technical explanation, refer to:
 linux-bastion-host-hardening-report.md
+
