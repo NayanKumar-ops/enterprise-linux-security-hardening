@@ -1,6 +1,6 @@
-#Linux Bastion Host Hardening
+# Linux Bastion Host Hardening
 
-Security Hardening Technical Report
+# Security Hardening Technical Report
 
 1. Executive Summary
 
