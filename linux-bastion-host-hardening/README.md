@@ -16,6 +16,4 @@ exposure using Nmap scans.
 - OpenSSH
 - Nmap
 
-## Documentation
-Detailed steps and screenshots are available in:
-report/linux-bastion-hos
+
