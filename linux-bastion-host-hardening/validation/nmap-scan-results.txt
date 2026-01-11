@@ -1,1 +1,11 @@
+Nmap scan summary
+
+Target: 192.168.56.101
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+All other scanned ports are filtered (admin-prohibited).
+
+Scan confirms firewall restrictions and limited attack surface.
 
