@@ -1,4 +1,4 @@
-# Nmap scan summary
+## Nmap scan summary
 
 Target: 192.168.56.101
 
