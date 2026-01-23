@@ -4,4 +4,4 @@ PermitRootLogin no
 PasswordAuthentication yes
 MaxAuthTries 3
 LoginGraceTime 30
-UsePAM yes
+UsePAM yes.
