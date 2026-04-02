@@ -51,5 +51,4 @@ I am a self-taught Linux sysadmin studying for RHCSA. I built this project to pr
 ## Author
 
 **NayanKumar-ops*
-i gonna upgrade
-this tool 
+
