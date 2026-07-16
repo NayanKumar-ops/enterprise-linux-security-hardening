@@ -14,6 +14,6 @@ exposure using Nmap scans.
 - Rocky Linux
 - firewalld
 - OpenSSH
-- Nmap.
+- Nmap
 
 
